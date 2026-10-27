@@ -1,0 +1,20 @@
+body {font-family: Arial, Helvetica, sans-serif;
+    background-color: #ae5858;
+    text-align: center;}
+
+h1 {color: rgb(4, 85, 34);
+    font-family:papyrus;}
+
+li {display: inline;
+    margin: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}    
+
+h2 {color: rgb(2, 3, 42);
+    font-family:cursive;}
+
+section {border: solid black 1px;}    
+
+footer {color: purple;
+    font-weight: bold;}
+
+nav a:hover {color: red;}
