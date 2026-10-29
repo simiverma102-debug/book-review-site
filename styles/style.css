@@ -1,8 +1,7 @@
 body {font-family: Arial, Helvetica, sans-serif;
-    background-color: #ae5858;
     text-align: center;}
 
-h1 {color: rgb(4, 85, 34);
+h1 {color: rgb(2, 32, 13);
     font-family:papyrus;}
 
 li {display: inline;
@@ -10,11 +9,11 @@ li {display: inline;
     font-family: Verdana, Geneva, Tahoma, sans-serif;}    
 
 h2 {color: rgb(2, 3, 42);
-    font-family:cursive;}
+    font-family:monospace;}   
 
-section {border: solid black 1px;}    
+header, footer {color: purple;
+    font-weight: bold;
+    border:solid black 2px;
+    background-color: rgb(216, 94, 94);}
 
-footer {color: purple;
-    font-weight: bold;}
-
-nav a:hover {color: red;}
+nav a:hover {color: green;}

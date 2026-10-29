@@ -1,0 +1,19 @@
+.book-info {
+    display: flex;
+    align-items:flex-start;
+    gap: 30px;
+}
+
+.book-info img {
+    width: 400px;
+    height: auto;
+}
+
+li {display: inline;
+    margin: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}   
+
+article {
+    text-align: left;
+    margin: 10px 270px 20px;
+    }
